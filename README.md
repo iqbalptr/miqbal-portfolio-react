@@ -14,5 +14,5 @@
 * Table
 
 
-[Link Deploy](https://github.com/iqbalptr/miqbal-portfolio-react)
+[Link Deploy](https://papalimazulu.netlify.com/)
 
