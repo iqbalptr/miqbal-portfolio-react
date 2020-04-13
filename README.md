@@ -1,6 +1,10 @@
 # CV online
+### Framework
+* Reactstrap
+* React-Bootstrap
+
 ### library yang digunakan
-### Reactstrap and React-bootstrap
+
 * Navbar 
 * Jumbotron
 * Button
